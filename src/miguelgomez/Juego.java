@@ -1,6 +1,6 @@
 package miguelgomez;
 
-public class Juego {
+public class juego {
     public static void main(String[] args) {
         System.out.println("Bienvenido al juego de Buscaminas 🧨\n");
 
